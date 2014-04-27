@@ -1,0 +1,22 @@
+{
+  "name": "is-wav",
+  "version": "0.1.0",
+  "description": "Check if a Buffer/Uint8Array is a WAV file",
+  "license": "MIT",
+  "repo": "hemanth/is-wav",
+  "scripts": [
+    "index.js"
+  ],
+   "keywords": [
+    "ogg",
+    "ogv",
+    "oga",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "binary",
+    "buffer",
+    "uint8array"
+  ],
+}
