@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Check if a Buffer/Uint8Array is a WAV file",
   "license": "MIT",
-  "repo": "hemanth/is-wav",
+  "repository": "hemanth/is-wav",
   "scripts": [
     "index.js"
   ],
