@@ -1,6 +1,6 @@
 {
   "name": "is-wav",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "description": "Check if a Buffer/Uint8Array is a wav file.",
   "license": "MIT",
   "repository": "hemanth/is-wav",
